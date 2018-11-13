@@ -16,8 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`6.4.2` (*6/Dockerfile*)](https://github.com/docker-library/kibana/blob/b8eac6fd9374fdb607b226603c13f180d4040588/6/Dockerfile)
--	[`5.6.13`, `5.6`, `5` (*5/Dockerfile*)](https://github.com/docker-library/kibana/blob/7728998a85333ed87f14fc224db081f6c10602f9/5/Dockerfile)
+**No supported tags found!**
+
+It is very likely that `kibana` does not support the currently selected architecture (`windows-amd64`).
 
 # Quick reference
 

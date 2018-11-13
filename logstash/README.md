@@ -16,11 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`6.4.1` (*6.4.1/Dockerfile*)](https://github.com/docker-library/logstash/blob/18d3da965bb702a12edd9d387afd16bd965c5b1c/6.4.1/Dockerfile)
--	[`6.4.0` (*6.4.0/Dockerfile*)](https://github.com/docker-library/logstash/blob/18d3da965bb702a12edd9d387afd16bd965c5b1c/6.4.0/Dockerfile)
--	[`6.4.2` (*6/Dockerfile*)](https://github.com/docker-library/logstash/blob/18d3da965bb702a12edd9d387afd16bd965c5b1c/6/Dockerfile)
--	[`5.6.13`, `5.6`, `5` (*5/Dockerfile*)](https://github.com/docker-library/logstash/blob/d5ef01551cfeae4e9aa45796689911485172dd68/5/Dockerfile)
--	[`5.6.13-alpine`, `5.6-alpine`, `5-alpine` (*5/alpine/Dockerfile*)](https://github.com/docker-library/logstash/blob/d5ef01551cfeae4e9aa45796689911485172dd68/5/alpine/Dockerfile)
+**No supported tags found!**
+
+It is very likely that `logstash` does not support the currently selected architecture (`windows-amd64`).
 
 # Quick reference
 
