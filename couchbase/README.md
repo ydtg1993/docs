@@ -19,6 +19,8 @@ WARNING:
 -	[`latest`, `enterprise`, `6.0.0`, `enterprise-6.0.0` (*enterprise/couchbase-server/6.0.0/Dockerfile*)](https://github.com/couchbase/docker/blob/18d1ed8c5deb288d6db5ddbf0a9585352f82c887/enterprise/couchbase-server/6.0.0/Dockerfile)
 -	[`community`, `community-6.0.0` (*community/couchbase-server/6.0.0/Dockerfile*)](https://github.com/couchbase/docker/blob/18d1ed8c5deb288d6db5ddbf0a9585352f82c887/community/couchbase-server/6.0.0/Dockerfile)
 
+[![Build Status](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/couchbase/badge/icon) (`amd64/couchbase` build job)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/couchbase/)
+
 # Quick reference
 
 -	**Where to get help**:  
